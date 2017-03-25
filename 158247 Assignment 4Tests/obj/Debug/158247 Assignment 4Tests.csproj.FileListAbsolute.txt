@@ -1,0 +1,8 @@
+C:\Users\Kelly\documents\visual studio 2015\Projects\158247 Assignment 4\158247 Assignment 4Tests\obj\Debug\158247 Assignment 4Tests.csprojResolveAssemblyReference.cache
+C:\Users\Kelly\documents\visual studio 2015\Projects\158247 Assignment 4\158247 Assignment 4Tests\bin\Debug\158247 Assignment 4Tests.dll
+C:\Users\Kelly\documents\visual studio 2015\Projects\158247 Assignment 4\158247 Assignment 4Tests\bin\Debug\158247 Assignment 4Tests.pdb
+C:\Users\Kelly\documents\visual studio 2015\Projects\158247 Assignment 4\158247 Assignment 4Tests\bin\Debug\158247 Assignment 4.exe
+C:\Users\Kelly\documents\visual studio 2015\Projects\158247 Assignment 4\158247 Assignment 4Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Kelly\documents\visual studio 2015\Projects\158247 Assignment 4\158247 Assignment 4Tests\bin\Debug\158247 Assignment 4.pdb
+C:\Users\Kelly\documents\visual studio 2015\Projects\158247 Assignment 4\158247 Assignment 4Tests\obj\Debug\158247 Assignment 4Tests.dll
+C:\Users\Kelly\documents\visual studio 2015\Projects\158247 Assignment 4\158247 Assignment 4Tests\obj\Debug\158247 Assignment 4Tests.pdb
